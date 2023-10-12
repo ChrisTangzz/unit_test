@@ -1,2 +1,3 @@
-"# unit_test" 
-"# unit_test" 
+先cd到unittest資料夾下
+coverage run <測試的檔案>
+coverage report -m
